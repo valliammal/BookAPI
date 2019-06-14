@@ -1,0 +1,8 @@
+com\bookapi\exception\BookNotFoundException.class
+com\bookapi\BookapiApplication.class
+com\bookapi\controller\BookController.class
+groovyspring\service\RecommendedBooks.class
+groovyspring\service\impl\RecommendedBooksImp.class
+com\bookapi\model\Book.class
+com\bookapi\repository\BookRepository.class
+groovyspring\model\Book.class
